@@ -21,8 +21,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/priv-flask-dashboard-coreui.git
-$ cd priv-flask-dashboard-coreui
+$ git clone https://github.com/app-generator/flask-dashboard-coreui.git
+$ cd flask-dashboard-coreui
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv --no-site-packages env
@@ -66,8 +66,8 @@ The application can be easily excuted in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-flask-dashboard-coreui.git
-$ cd priv-flask-dashboard-coreui
+$ git clone https://github.com/app-generator/flask-dashboard-coreui.git
+$ cd flask-dashboard-coreui
 ```
 
 > Start the app in Docker
