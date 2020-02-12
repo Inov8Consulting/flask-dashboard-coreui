@@ -16,14 +16,17 @@
               <div class="card-body">
 
                 <div class="text-center">
-                  <h1>Login</h1>
+                  <h2>
+                    <a href="https://appseed.us/admin-dashboards/flask-dashboard-coreui" >Flask Dashboard CoreUI</a>
+                  </h2>
+                  <h5>Login</h5>
                   <p class="text-muted">
 
                     {% if msg %}
                       {{ msg | safe }}
                     {% else %}
                     <span>
-                      Use default credentials: test / pass
+                      Use default credentials: <strong>test / pass</strong>
                       <br />
                       OR <a href={{ url_for('base_blueprint.create_user') }} >create your own user</a>
                     </span>
