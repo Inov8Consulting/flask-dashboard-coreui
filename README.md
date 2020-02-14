@@ -15,6 +15,15 @@
 
 <br />
 
+## Dashboard Links
+
+- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - the product page
+- [Flask Dashboard CoreUI](https://docs.appseed.us/admin-dashboards/flask-dashboard-coreui) - the source code
+- [Flask Dashboard CoreUI](https://flask-dashboard-coreui.appseed.us/login) - LIVE Demo
+- [Flask Dashboard CoreUI](https://www.youtube.com/watch?v=kS2rLOF5has) - yTube presentation
+
+<br />
+
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
