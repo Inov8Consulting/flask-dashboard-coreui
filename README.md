@@ -17,7 +17,6 @@
 <br />
 
 ## Dashboard technology stack
----
 
 - Used Language: [Python3](https://www.python.org/) (Python2 is not supported)
 - Web Framework: [Flask](https://www.palletsprojects.com/p/flask/)
@@ -28,7 +27,6 @@
 <br />
 
 ## Dashboard Links
----
 
 - [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - the product page
 - [Flask Dashboard CoreUI](https://docs.appseed.us/admin-dashboards/flask-dashboard-coreui/) - documentation
