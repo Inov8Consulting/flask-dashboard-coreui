@@ -155,7 +155,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## What is [Flask](https://www.palletsprojects.com/p/flask/)
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
 
 [Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
@@ -167,11 +167,11 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [CoreUI](https://coreui.io/)
+### [CoreUI](https://coreui.io/)
 
 CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
 
 <br />
 
 ---
-[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
